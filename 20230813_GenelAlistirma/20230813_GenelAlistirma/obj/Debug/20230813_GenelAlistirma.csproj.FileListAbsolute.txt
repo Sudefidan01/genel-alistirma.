@@ -1,0 +1,8 @@
+C:\Users\sadullah.sener\source\repos\20230813_GenelAlistirma\20230813_GenelAlistirma\bin\Debug\20230813_GenelAlistirma.exe.config
+C:\Users\sadullah.sener\source\repos\20230813_GenelAlistirma\20230813_GenelAlistirma\bin\Debug\20230813_GenelAlistirma.exe
+C:\Users\sadullah.sener\source\repos\20230813_GenelAlistirma\20230813_GenelAlistirma\bin\Debug\20230813_GenelAlistirma.pdb
+C:\Users\sadullah.sener\source\repos\20230813_GenelAlistirma\20230813_GenelAlistirma\obj\Debug\20230813_GenelAlistirma.csproj.AssemblyReference.cache
+C:\Users\sadullah.sener\source\repos\20230813_GenelAlistirma\20230813_GenelAlistirma\obj\Debug\20230813_GenelAlistirma.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadullah.sener\source\repos\20230813_GenelAlistirma\20230813_GenelAlistirma\obj\Debug\20230813_GenelAlistirma.csproj.CoreCompileInputs.cache
+C:\Users\sadullah.sener\source\repos\20230813_GenelAlistirma\20230813_GenelAlistirma\obj\Debug\20230813_GenelAlistirma.exe
+C:\Users\sadullah.sener\source\repos\20230813_GenelAlistirma\20230813_GenelAlistirma\obj\Debug\20230813_GenelAlistirma.pdb
